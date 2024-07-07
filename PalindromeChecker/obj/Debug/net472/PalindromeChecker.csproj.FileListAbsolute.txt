@@ -1,0 +1,10 @@
+C:\Users\Powergen\Desktop\PalindromeChecker\bin\Debug\net472\PalindromeChecker.exe.config
+C:\Users\Powergen\Desktop\PalindromeChecker\bin\Debug\net472\PalindromeChecker.exe
+C:\Users\Powergen\Desktop\PalindromeChecker\bin\Debug\net472\PalindromeChecker.pdb
+C:\Users\Powergen\Desktop\PalindromeChecker\obj\Debug\net472\PalindromeChecker.csproj.AssemblyReference.cache
+C:\Users\Powergen\Desktop\PalindromeChecker\obj\Debug\net472\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Powergen\Desktop\PalindromeChecker\obj\Debug\net472\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\Powergen\Desktop\PalindromeChecker\obj\Debug\net472\PalindromeChecker.AssemblyInfo.cs
+C:\Users\Powergen\Desktop\PalindromeChecker\obj\Debug\net472\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Powergen\Desktop\PalindromeChecker\obj\Debug\net472\PalindromeChecker.exe
+C:\Users\Powergen\Desktop\PalindromeChecker\obj\Debug\net472\PalindromeChecker.pdb
